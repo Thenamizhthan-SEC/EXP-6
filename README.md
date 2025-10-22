@@ -16,13 +16,19 @@ I. Connect the multimeter at the output of kit..
 4. Value and note the corresponding values of voltages in the multimeter.
 5. Plot the graph between displacement and voltages on the graph paper.
 
+![WhatsApp Image 2025-10-22 at 22 06 08_805fbd09](https://github.com/user-attachments/assets/2c677cec-594f-47d2-9959-7c9fa31c1bdd)
 
-OBSERVATION TABLE
+![WhatsApp Image 2025-10-22 at 22 06 09_02e4b3ed](https://github.com/user-attachments/assets/593680dd-a3e7-4cd4-9dcc-2a56ddd1222e)
+
+![WhatsApp Image 2025-10-22 at 22 06 09_9f8e0a0d](https://github.com/user-attachments/assets/3ba1b9dc-8e2b-4244-bda9-62fdca51939e)
 
 PRECAUTION: -
 1. The values on the multimeter should be carefully noted.
 2. The core should be set to a maximum value of 20mm.
 3. To get the good performance from the kit, main room temperature.
 4. To check the power supply, it should be 220+!- 10% 50Hz to avoid voltage hazard.
+
+
+
 
 RESULT: - LVDT was studied well and graph of displacement was linear for a particular range.
